@@ -1,0 +1,19 @@
+{
+  "name": "multisnake-redux",
+  "version": "1.0.0",
+  "description": "multiplayre snake game made with react/redux client and node/express server with redux maintaining server state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDWu/MULTISNAKE-Redux.git"
+  },
+  "author": "Alex Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexDWu/MULTISNAKE-Redux/issues"
+  },
+  "homepage": "https://github.com/AlexDWu/MULTISNAKE-Redux#readme"
+}
